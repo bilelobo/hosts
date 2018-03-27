@@ -1,0 +1,2 @@
+# hosts
+HOSTS/AdBlock

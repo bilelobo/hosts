@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2018-03-27T17:37:10.000Z+00:00 UTC
-! Version:        20180327173710000
+! Last modified:  2018-03-27T17:54:00.000Z+00:00 UTC
+! Version:        20180327175400000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Hide Annoying Elements
-! Rules:          241
+! Rules:          242
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -125,6 +125,7 @@ ksn.co.il##.et_pb_column_1_4  img, [class*="slide"], [id*="slide"]
 laserfocusworld.com##iframe
 leechermods.com##[href*="aff"], [href*="bill"], [href*="dentoo"], [href*="nukedl"], [href*="ul.to"], [href*="vpn"], [src*="aff"], [src*="bill"], [src*="dentoo"], [src*="nukedl"], [src*="ul.to"], [src*="vpn"]
 leumi.co.il##div[id^="bgImg"]
+leumit.co.il/heb/home##.FloatingMessageContainer, .popupOverlay, .popupOverlay-FloatingMessage
 lifehacker.com##.meta__right, [class*="ad-container"], [class*="noskim"], [class*="sharingfooter"], [id*="ad-"][id*="-container"], [id*="sharingfooter"], aside[class*="referenced"], section[class*="sidebar"]
 lifewire.com##.figure-article-caption, .figure-media, .post-header, [class*="leaderboard"], [id^="byline"], [id^="footer"], [id^="leaderboard"], [id^="prefooter"], figure, form[id^="print"]
 limetorrents.cc##.torrentvoting, a[href*="&"][style], a[href*="duckssolutions."], a[href*="goo.gl"], div[class*="warn"], div[class*="wrn"], font, table[id*="trackerstable"], table[style]

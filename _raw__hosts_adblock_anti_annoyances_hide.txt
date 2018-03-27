@@ -114,6 +114,7 @@ ksn.co.il##.et_pb_column_1_4  img, [class*="slide"], [id*="slide"]
 laserfocusworld.com##iframe
 leechermods.com##[href*="aff"], [href*="bill"], [href*="dentoo"], [href*="nukedl"], [href*="ul.to"], [href*="vpn"], [src*="aff"], [src*="bill"], [src*="dentoo"], [src*="nukedl"], [src*="ul.to"], [src*="vpn"]
 leumi.co.il##div[id^="bgImg"]
+leumit.co.il/heb/home##.FloatingMessageContainer, .popupOverlay, .popupOverlay-FloatingMessage
 lifehacker.com##.meta__right, [class*="ad-container"], [class*="noskim"], [class*="sharingfooter"], [id*="ad-"][id*="-container"], [id*="sharingfooter"], aside[class*="referenced"], section[class*="sidebar"]
 lifewire.com##.figure-article-caption, .figure-media, .post-header, [class*="leaderboard"], [id^="byline"], [id^="footer"], [id^="leaderboard"], [id^="prefooter"], figure, form[id^="print"]
 limetorrents.cc##.torrentvoting, a[href*="&"][style], a[href*="duckssolutions."], a[href*="goo.gl"], div[class*="warn"], div[class*="wrn"], font, table[id*="trackerstable"], table[style]

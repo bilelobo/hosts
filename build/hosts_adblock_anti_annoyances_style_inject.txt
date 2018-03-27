@@ -1,0 +1,54 @@
+[Adblock Plus 2.0]
+! Expires:        14 days
+! Last modified:  2018-03-27T17:37:10.000Z+00:00 UTC
+! Version:        20180327173710000
+! Title:          HOSTS AdBlock - Anti-Annoyance - ReStyle Annoying Pages
+! Rules:          43
+! Homepage:       http://hosts.eladkarako.com/
+! Author:         http://hosts.eladkarako.com/humans.txt
+! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
+! Download:       https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_style_inject.txt
+! --------------------------------------------------------------------------------------
+*##body:style(overflow:visible !important;)
+*##html:style(overflow:auto !important; word-break:normal !important; overflow-wrap:break-word !important; word-wrap:break-word !important;)
+androidforums.com##.SpoilerTarget:style(visibility: visible !important;)
+androidforums.com##.ToggleTriggerAnchor:style(background:none transparent !important;)
+androidforums.com##.bbCodeSpoilerContainer:style(background:none transparent !important;)
+androidforums.com##.bbCodeSpoilerText:style(visibility: visible !important;)
+apkmirror.com##[class="tab-pane"]:style(display:block !important;)
+apkmirror.com##[role="tabpanel"]:style(display:block !important;)
+ebay.com##[id*="gh-gb"]:style(box-shadow:unset !important; background:none white !important; border:none !important;)
+ebay.com##body:style(background:none white !important;)
+ebay.com##headerFragment:style(background:none white !important;)
+filehippo.com##.tab-pane:style(display:block !important;)
+filehippo.com##[class*="tab-headers"]:style(display:none !important;)
+filehippo.com##nav:style(position:relative !important;)
+godaddy.com##html:style(background-image:none !important; background: none transparent !important;)
+google.com,google.co.il##input.lst:style(direction:ltr !important;  text-align:left !important;  letter-spacing:-.3pt !important;)
+independent.co.uk##.main-content-column:style(width:100% !important;)
+independent.co.uk##.text-wrapper:style(max-width:100% !important;)
+jimbutcheronline.com##div.spoilerbody:style(display:block !important; border:none !important; margin:0px !important; padding:0px !important;)
+jimbutcheronline.com##div.spoilerheader:style(display:none !important;)
+leechermods.com##img:style(max-width:90% !important;)
+lifewire.com##[role="main"]:style(top:0px !important;)
+lifewire.com##a:style(box-shadow:none !important; text-decoration:underline !important; color:#0094CC !important;)
+lifewire.com##code:style(background-color: lightgray !important;)
+metro.co.uk##.article-body:style(font-size:16pt !important;)
+metro.co.uk##.article-body:style(width:100% !important;)
+metro.co.uk##[id^="post-content"]:style(width:100% !important;)
+microsoft.com##[class*="mscom-accordion-item"]:style(display:block !important;)
+microsoft.com##[id*="refineDrawer"]:style(display:block !important;)
+novafusion.pl##[class*="ainfo"]:style(display:block !important;)
+ourcodeworld.com##.content > .row > .row > div[class*="col-"]:not([id]):style(width:100% !important;);
+reddit.com##[id^="header"]::before:style(background:none lightgray !important;)
+robtex.com##section:style(margin:0 !important;)
+samanthabee.com##.site-content:style(margin:0 !important;)
+sammobile.com##body:style(padding-top:0 !important;)
+sb-innovation.de##div[style*="display: none;"]:style(display:block !important;)
+stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com##.so-header._fixed:style(position:relative !important;)
+stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com##.so-header:style(margin:0 !important;)
+stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com##.top-bar:style(margin:0 !important;)
+stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com##body:style(margin:0 !important;)
+wikipedia.org##.mw-body:style(margin:0 !important;)
+xhamster.com####div[id*="main"]:style(padding:0px !important;)
+xnxx.com##[id*="5video"]:style(display:block !important;)
